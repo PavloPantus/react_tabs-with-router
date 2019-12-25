@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b36bd86f4d1c48abf30d7dd4629e3c27",
+    "revision": "a354a5363125e31144e12f6e1f6611c1",
     "url": "/react_tabs-with-router/index.html"
   },
   {
-    "revision": "dc115ab7af71ef1c579f",
+    "revision": "08c69f42404b36cdc29d",
     "url": "/react_tabs-with-router/static/css/main.e9a6c2fb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_tabs-with-router/static/js/2.f353167d.chunk.js"
   },
   {
-    "revision": "dc115ab7af71ef1c579f",
-    "url": "/react_tabs-with-router/static/js/main.6785e94c.chunk.js"
+    "revision": "08c69f42404b36cdc29d",
+    "url": "/react_tabs-with-router/static/js/main.d90b6924.chunk.js"
   },
   {
     "revision": "da3ca6fceb301548d22d",
